@@ -7,8 +7,6 @@
 - [ ] [Nonblocking I/O](https://tinyurl.com/ybpc3jwy)
 - [ ] [Origins of Go Concurrency style by Rob Pike](https://tinyurl.com/y9xjfvhc)
 
-## Software Testing
-
 ## Software Architecture
 - [x] [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://tinyurl.com/ycdezqqq)
 
