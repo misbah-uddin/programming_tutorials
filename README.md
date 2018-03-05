@@ -13,3 +13,6 @@
 
 ## Security and Privacy
 - [ ] [How do you authenticate, mate?](https://tinyurl.com/ycaagwcb)
+
+## Deploy
+- [ ] [https://github.com/docker/labs/tree/master/developer-tools/java/](https://github.com/docker/labs/tree/master/developer-tools/java/) 
