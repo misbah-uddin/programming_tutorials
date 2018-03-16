@@ -20,11 +20,11 @@
 
 ### API
 
-- [ ][How to Use RESTful APIs with Django](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [ ] [How to Use RESTful APIs with Django](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## Software Architecture
 - [x] [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://tinyurl.com/ycdezqqq)
-- [][The Log: What every software engineer should know about real-time data's unifying abstraction](
+- [ ] [The Log: What every software engineer should know about real-time data's unifying abstraction](
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 
