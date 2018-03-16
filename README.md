@@ -24,7 +24,7 @@
 
 ## Software Architecture
 - [x] [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://tinyurl.com/ycdezqqq)
-- [ ][The Log: What every software engineer should know about real-time data's unifying abstraction](
+- [][The Log: What every software engineer should know about real-time data's unifying abstraction](
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 
