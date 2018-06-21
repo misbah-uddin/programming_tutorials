@@ -1,3 +1,5 @@
+- [Using RxJava 2 - Tutorial](http://www.vogella.com/tutorials/RxJava/article.html)
 - [Dr. Erik Meijer - Functional Programming Fundamentals Chapter 1 of 13](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD)
 - [Day1 Building An Application From Scratch Using Rxjava And Java8](http://blog.xebia.in/index.php/2015/08/31/day1-building-an-application-from-scratch-using-rxjava-and-java8/)
 - [NotRxJava guide for lazy folks](https://yarikx.github.io/NotRxJava/)
+- [Mastering observables](https://developer.couchbase.com/documentation/server/3.x/developer/java-2.0/observables.html)
